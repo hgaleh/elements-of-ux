@@ -1,0 +1,1 @@
+This tex project is an abstract for the book 'The Elements of User Experience_ User-Centered Design for the Web and Beyond (2nd Edition) by Jesse James Garrett'
